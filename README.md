@@ -33,8 +33,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manipulationp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manipulationp" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshaprabha&show_icons=true&locale=en&layout=compact" alt="maneeshaprabha" /></p>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshaprabha&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="maneeshaprabha" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshaprabha&show_icons=true&locale=en" alt="maneeshaprabha" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshaprabha&show_icons=true&locale=en&theme=github_dark" alt="maneeshaprabha" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshaprabha&" alt="maneeshaprabha" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshaprabha&theme=github-dark&ring=325C5B&fire=325C5B&currStreakLabel=325C5B" alt="maneeshaprabha" />
+</p>

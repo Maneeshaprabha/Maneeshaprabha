@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maneeshaprabha&label=Profile%20views&color=0e75b6&style=flat" alt="maneeshaprabha" /> </p>
 
-- 🔭 I’m currently working on **SLT Mobitel (intern)**
+- 🔭 I’m worked on **SLT Mobitel (intern)**
 
 - 🌱 I’m currently learning **flutter , react native**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **maneeprabha28@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/drive/folders/1I7KRIqMnagYw2lPbVLsaw0KpLCvpbE1F?usp=sharing)
+- 📄 Know about my experiences : [Resume]
 
 - ⚡ Fun fact **I think I am Funny**
 

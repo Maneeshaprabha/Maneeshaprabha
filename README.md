@@ -38,7 +38,9 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshaprabha&show_icons=true&locale=en&theme=github_dark" alt="maneeshaprabha" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maneeshaprabha&theme=tokyo-night"/>
+</p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshaprabha&theme=github-dark&ring=325C5B&fire=325C5B&currStreakLabel=325C5B" alt="maneeshaprabha" />
 </p>

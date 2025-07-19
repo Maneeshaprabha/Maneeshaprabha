@@ -6,6 +6,8 @@
 
 - 🔭 I’m worked on **SLT Mobitel (intern)**
 
+-🎨 Desugn skills about my UI/UX [portfolio](https://www.behance.net/maneeshprabhad)
+
 - 🌱 I’m currently learning **flutter , react native**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://maneeshaprabha.github.io/portfolio/)
